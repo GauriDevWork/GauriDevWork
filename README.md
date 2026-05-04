@@ -18,7 +18,7 @@ Enterprise WordPress plugin for structured content management with full CRUD RES
 custom post types, taxonomy filtering, AJAX admin interface, Gutenberg block with
 server-side rendering, and OOP architecture with PSR-4 autoloading.
 Stack: PHP · OOP · WordPress REST API · Gutenberg · Composer · PHPCS
-→ [github.com/GauriDevWork/wp-content-hub](https://github.com/GauriDevWork/wp-content-hub)
+→ [github.com/GauriDevWork/wp-enterprise-plugin](https://github.com/GauriDevWork/wp-enterprise-plugin)
 
 ---
 
