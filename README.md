@@ -13,7 +13,7 @@ with Gutenberg block APIs, REST API controllers, and CI/CD pipelines.
 
 ### Featured Projects
 
-**wp-content-hub** *(in active development)*
+**wp-enterprise-plugin** *(in active development)*
 Enterprise WordPress plugin for structured content management with full CRUD REST API,
 custom post types, taxonomy filtering, AJAX admin interface, Gutenberg block with
 server-side rendering, and OOP architecture with PSR-4 autoloading.
