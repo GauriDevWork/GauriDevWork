@@ -1,4 +1,4 @@
-# Gauri Kaushik — Senior WordPress Engineer
+# Gauri Kaushik — WordPress Engineer · Transitioning to Enterprise Architecture · OOP · Gutenberg · REST API · Learning in Public
 
 15 years of production WordPress development — custom plugins, REST API integrations,
 WooCommerce, and performance-critical sites serving real users.
