@@ -7,7 +7,7 @@ Visakhapatnam, India · Open to remote roles
 
 ## Open Source
 
-🏆 **WordPress Core Contributor** — credited in the [WordPress 7.0 release](https://wordpress.org/news/2026/05/wordpress-7-0/) · Core, Plugins, Test & Themes teams  
+🏆 **WordPress Core Contributor** — credited in the [WordPress 7.0 release](https://profiles.wordpress.org/gauri87/) · Core, Plugins, Test & Themes teams  
 🔌 3 plugins published on [WordPress.org](https://profiles.wordpress.org/gauri87/)
 
 ---
