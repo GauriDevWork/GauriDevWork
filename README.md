@@ -5,6 +5,13 @@ Visakhapatnam, India · Open to remote roles
 
 ---
 
+## Open Source
+
+🏆 **WordPress Core Contributor** — credited in the [WordPress 7.0 release](https://wordpress.org/news/2026/05/wordpress-7-0/) · Core, Plugins, Test & Themes teams  
+🔌 3 plugins published on [WordPress.org](https://profiles.wordpress.org/gauri87/)
+
+---
+
 ## What I'm doing right now
 
 I'm publicly rebuilding my engineering foundation — moving from service-company WordPress development into enterprise-grade architecture.
@@ -15,7 +22,6 @@ I'm publicly rebuilding my engineering foundation — moving from service-compan
 - Headless WordPress + Next.js
 - PHPUnit testing, CI/CD with GitHub Actions
 - Bedrock + Composer-based project structure
-
 
 ---
 
