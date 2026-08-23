@@ -89,4 +89,4 @@ Smart External Links Manager — detects external links in post content and adds
 
 ---
 
-![GitHub Streak](https://streak-stats.demolab.com?user=GauriDevWork&theme=dark&hide_border=true)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=GauriDevWork)](https://git.io/streak-stats)
