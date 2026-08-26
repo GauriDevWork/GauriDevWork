@@ -88,5 +88,3 @@ Smart External Links Manager — detects external links in post content and adds
 [![GitHub followers](https://img.shields.io/github/followers/GauriDevWork?style=flat&logo=github)](https://github.com/GauriDevWork)
 
 ---
-
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=GauriDevWork&theme=great-gatsby&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" /></a>
